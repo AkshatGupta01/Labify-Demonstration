@@ -4,7 +4,7 @@ Below are some of the pictures of Labify
 
 
 dashboard page
-![image](https://github.com/AkshatGupta01/Labify-Demonstration/assets/99203630/e1787808-90f4-4da0-b549-bda23047c9b0)
+![image](https://github.com/AkshatGupta01/Labify-Demonstration/assets/99203630/e90247aa-0a13-4a64-b91b-4c44716bdedd)
 
 invoices page
 ![image](https://github.com/AkshatGupta01/Labify-Demonstration/assets/99203630/e6692203-9dea-4e41-b09f-71300ec3c27a)
